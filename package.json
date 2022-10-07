@@ -62,7 +62,7 @@
   ],
   "license": "BSD-3-Clause",
   "main": "./dist/index.js",
-  "name": "puppeteer-proxy",
+  "name": "v-dev-puppeteer-proxy",
   "nyc": {
     "all": true,
     "include": [
