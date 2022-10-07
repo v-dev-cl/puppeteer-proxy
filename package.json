@@ -90,5 +90,5 @@
     "test": "NODE_ENV=test ava --verbose --serial",
     "auto-publish": "npm run build && git add . && git commit -m 'new update' && npm version patch && git push && npm publish"
   },
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
